@@ -33,6 +33,24 @@ body {
 /* main */
 
 
+
+.center {
+  display: block;
+  margin: auto;
+}
+
+.nomargin {
+  margin: 0;
+}
+
+.nopadding-left {
+  padding-left: 0;
+}
+
+.nopadding-right {
+  padding-right: 0;
+}
+
 .panel > .panel-info {
     background-image: none;
     font-weight: bold;
@@ -46,6 +64,15 @@ body {
 .text-box-full-centered {
   justify-content: center;
   align-items: center;
+}
+
+.vpadding {
+  padding-top: 1px;
+}
+
+.video-border {
+  border: 30px solid tomato;
+  line-height: 0;
 }
 
 
@@ -259,4 +286,21 @@ body {
 }
 .text-tamarillo-color {
   color: #821 !important;
+}
+
+/* buttons */
+
+.detail_button {
+	clear: both;
+	text-align: center;
+	display: inline-block;
+	width: 100px;
+	padding: 4px 0 5px 0;
+  margin-bottom: 5px; 
+  margin-top: 5px;
+	background-color: midnightblue;
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+	border-radius: 25px;
 }
