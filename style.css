@@ -8,13 +8,6 @@ body {
   background-color: azure;
 }
 
-
-.footer-contrast {
-  color: black;
-  font-weight: bold;
-  text-align: center;
-}
-
 .header {
     font-family: 'Roboto';
     text-align: center;
@@ -35,4 +28,235 @@ body {
     opacity: 0.7;
     width: 100%;
     background-size: cover;
+}
+
+/* main */
+
+
+.panel > .panel-info {
+    background-image: none;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-align: center;  
+}
+
+
+
+.text-box-full-centered {
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* footer */
+
+.footer-contrast {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* background colors */
+
+.gray-bg {
+  background-color: rgba(34,51,85,0.467) !important;
+}
+.white-bg {
+  background-color: #fff !important;
+}
+.black-bg {
+  background-color: #000 !important;
+}
+.pale-canary-bg {
+  background-color: #ff9 !important;
+}
+.golden-tanoi-bg {
+  background-color: #fc6 !important;
+}
+.neon-carrot-bg {
+  background-color: #f93 !important;
+}
+.eggplant-bg {
+  background-color: #646 !important;
+}
+.lilac-bg {
+  background-color: #c9c !important;
+}
+.anakiwa-bg {
+  background-color: #9cf !important;
+}
+.mariner-bg {
+  background-color: #36c !important;
+}
+.bahama-blue-bg {
+  background-color: #069 !important;
+}
+.blue-bell-bg {
+  background-color: #99c !important;
+}
+.melrose-bg {
+  background-color: #99f !important;
+}
+.hopbush-bg {
+  background-color: #c69 !important;
+}
+.chestnut-rose-bg {
+  background-color: #c66 !important;
+}
+.orange-peel-bg {
+  background-color: #f96 !important;
+}
+.atomic-tangerine-bg {
+  background-color: #f90 !important;
+}
+.danub-bg {
+  background-color: #68c !important;
+}
+.indigo-bg {
+  background-color: #45b !important;
+}
+.lavender-purple-bg {
+  background-color: #97a !important;
+}
+.cosmic-bg {
+  background-color: #746 !important;
+}
+.red-damask-bg {
+  background-color: #d64 !important;
+}
+.medium-carmine-bg {
+  background-color: #a53 !important;
+}
+.bourbon-bg {
+  background-color: #b62 !important;
+}
+.sandy-brown-bg {
+  background-color: #e95 !important;
+}
+.periwinkle-bg {
+  background-color: #cdf !important;
+}
+.dodger-blue-bg {
+  background-color: #59f !important;
+}
+.dodger-blue-alt-bg {
+  background-color: #36f !important;
+}
+.blue-bg {
+  background-color: #01e !important;
+}
+.navy-blue-bg {
+  background-color: #008 !important;
+}
+.husk-bg {
+  background-color: #ba5 !important;
+}
+.rust-bg {
+  background-color: #b41 !important;
+}
+.tamarillo-bg {
+  background-color: #821 !important;
+}
+
+/* text colors */
+
+.text-gray-color {
+  color: rgba(34,51,85,0.467) !important;
+}
+.text-white-color {
+  color: #fff !important;
+}
+.text-black-color {
+  color: #000 !important;
+}
+.text-pale-canary-color {
+  color: #ff9 !important;
+}
+.text-golden-tanoi-color {
+  color: #fc6 !important;
+}
+.text-neon-carrot-color {
+  color: #f93 !important;
+}
+.text-eggplant-color {
+  color: #646 !important;
+}
+.text-lilac-color {
+  color: #c9c !important;
+}
+.text-anakiwa-color {
+  color: #9cf !important;
+}
+.text-mariner-color {
+  color: #36c !important;
+}
+.text-bahama-blue-color {
+  color: #069 !important;
+}
+.text-blue-bell-color {
+  color: #99c !important;
+}
+.text-melrose-color {
+  color: #99f !important;
+}
+.text-hopbush-color {
+  color: #c69 !important;
+}
+.text-chestnut-rose-color {
+  color: #c66 !important;
+}
+.text-orange-peel-color {
+  color: #f96 !important;
+}
+.text-atomic-tangerine-color {
+  color: #f90 !important;
+}
+.text-danub-color {
+  color: #68c !important;
+}
+.text-indigo-color {
+  color: #45b !important;
+}
+.text-lavender-purple-color {
+  color: #97a !important;
+}
+.text-cosmic-color {
+  color: #746 !important;
+}
+.text-red-damask-color {
+  color: #d64 !important;
+}
+.text-medium-carmine-color {
+  color: #a53 !important;
+}
+.text-bourbon-color {
+  color: #b62 !important;
+}
+.text-sandy-brown-color {
+  color: #e95 !important;
+}
+.text-periwinkle-color {
+  color: #cdf !important;
+}
+.text-dodger-blue-color {
+  color: #59f !important;
+}
+.text-dodger-blue-alt-color {
+  color: #36f !important;
+}
+.text-blue-color {
+  color: #01e !important;
+}
+.text-navy-blue-color {
+  color: #008 !important;
+}
+.text-husk-color {
+  color: #ba5 !important;
+}
+.text-rust-color {
+  color: #b41 !important;
+}
+.text-tamarillo-color {
+  color: #821 !important;
 }
