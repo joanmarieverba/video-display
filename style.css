@@ -30,6 +30,25 @@ body {
     background-size: cover;
 }
 
+
+/* buttons */
+
+.detail_button {
+	clear: both;
+	text-align: center;
+	display: inline-block;
+	width: 100px;
+	padding: 4px 0 5px 0;
+  margin-bottom: 5px; 
+  margin-top: 5px;
+  margin-left: 5px;
+	background-color: midnightblue;
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+	border-radius: 25px;
+}
+
 /* main */
 
 
@@ -72,6 +91,16 @@ body {
 
 .video-border {
   border: 30px solid goldenrod;
+  line-height: 0;
+}
+
+.video-border-1 {
+  border: 30px solid green;
+  line-height: 0;
+}
+
+.video-border-2 {
+  border: 30px solid firebrick;
   line-height: 0;
 }
 
@@ -288,19 +317,3 @@ body {
   color: #821 !important;
 }
 
-/* buttons */
-
-.detail_button {
-	clear: both;
-	text-align: center;
-	display: inline-block;
-	width: 100px;
-	padding: 4px 0 5px 0;
-  margin-bottom: 5px; 
-  margin-top: 5px;
-	background-color: midnightblue;
-	color: #ffffff;
-	font-weight: bold;
-	text-decoration: none;
-	border-radius: 25px;
-}
