@@ -104,6 +104,17 @@ body {
   line-height: 0;
 }
 
+.video-border-3 {
+  border: 30px solid gray;
+  line-height: 0;
+}
+
+.video-border-4 {
+  border: 30px solid darkkhaki;
+  line-height: 0;
+}
+
+
 
 /* footer */
 
