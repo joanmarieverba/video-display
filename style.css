@@ -8,6 +8,10 @@ body {
   background-color: azure;
 }
 
+.bottom {
+  padding-bottom: 14px;
+}
+
 .header {
     font-family: 'Roboto';
     text-align: center;
@@ -215,6 +219,12 @@ body {
 }
 .navy-blue-bg {
   background-color: #008 !important;
+}
+.cyan-bg {
+  background-color: #00FFFF !important;
+}
+.cornflower-blue-bg {
+  background-color: #6495ED !important;
 }
 .husk-bg {
   background-color: #ba5 !important;
