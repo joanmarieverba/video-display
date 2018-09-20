@@ -12,6 +12,17 @@ body {
   padding-bottom: 14px;
 }
 
+
+ .content {
+    padding-left: 3vw;
+    padding-right: 2vw;
+    border-right: 1px dotted #32251B;
+  }
+
+  .content-right {
+    padding-right: 3vw;
+  }
+
 .header {
     font-family: 'Roboto';
     text-align: center;
@@ -23,6 +34,10 @@ body {
     margin: 0 auto;
     width: 100%;
     top: 10vw;
+}
+
+h5 {
+  padding-top: 3px;
 }
 
 .mainHeaderImage {
