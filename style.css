@@ -8,6 +8,17 @@ body {
   background-color: lightslategray;
 }
 
+.arrow-down {
+  width: 0;
+  height: 0;
+  margin: 0 auto;
+  /* margin-top: -30px; */
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 20px solid black;
+  top: 60vw;
+}
+
 .bottom {
   padding-bottom: 14px;
 }
