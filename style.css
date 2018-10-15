@@ -51,6 +51,10 @@ h5 {
   padding-top: 3px;
 }
 
+.indent {
+  padding-left: 5px;
+}
+
 .mainHeaderImage {
     background-image: url("viewscreen1920x1080.jpg");
     background-size: cover;
