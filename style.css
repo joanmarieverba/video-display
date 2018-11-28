@@ -125,6 +125,10 @@ h5 {
   padding-top: 1px;
 }
 
+.vpadding-a {
+  padding-top: 5px;
+}
+
 .video-border {
   border: 30px solid goldenrod;
   line-height: 0;
