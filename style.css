@@ -5,7 +5,7 @@
  */
 
 body {
-  background-color: lightslategray;
+  background-color: azure;
 }
 
 .arrow-down {
@@ -152,6 +152,11 @@ h5 {
 .video-border-4 {
   border: 30px solid darkkhaki;
   line-height: 0;
+}
+
+.video-border-a {
+  border: 10px outset goldenrod;
+  margin: 0 auto;
 }
 
 
